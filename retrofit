@@ -1,0 +1,5 @@
+Chú ý về retrofit: https://viblo.asia/hungtdo/posts/AQrMJVojM40E
+
+Link cần get: https://api.stackexchange.com/2.2/search?order=desc&sort=activity&tagged=Android&site=stackoverflow
+ 	- Mỗi & được xem như là một query
+	- API của REST là endpoint với đầu vào là các query.
